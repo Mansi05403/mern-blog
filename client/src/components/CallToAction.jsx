@@ -8,7 +8,7 @@ export default function CallToAction() {
                 Want to learn more about Cracking Internships?
             </h2>
             <p className='text-gray-500 my-2'>
-                Checkout the Resources to Master the Art of Landing Lucrative Internships and Boost Your Career!!
+                Checkout My Interview Experiences to Master the Art of Landing Lucrative Internships and Boost Your Career!!
             </p>
             <Button gradientDuoTone='purpleToPink' className='rounded-tl-xl rounded-bl-none'>
                 <a href="https://www.geeksforgeeks.org/10-tips-and-tricks-to-crack-internships-and-placements/" target='_blank' rel='noopener noreferrer'>
