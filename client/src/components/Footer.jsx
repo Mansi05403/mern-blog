@@ -22,11 +22,11 @@ export default function FooterCom() {
               <Footer.Title title='About' />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href='https://www.100jsprojects.com'
+                  href='https://www.geeksforgeeks.org/10-tips-and-tricks-to-crack-internships-and-placements/'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  100 JS Projects
+                  Tips to Crack Internships
                 </Footer.Link>
                 <Footer.Link
                   href='/about'
@@ -67,10 +67,10 @@ export default function FooterCom() {
             year={new Date().getFullYear()}
           />
           <div className="flex gap-6 sm:mt-0 mt-4 sm:justify-center">
-            <Footer.Icon href='#' icon={BsFacebook}/>
-            <Footer.Icon href='#' icon={BsInstagram}/>
-            <Footer.Icon href='#' icon={BsTwitter}/>
+            <Footer.Icon href='https://www.facebook.com/profile.php?id=100010255741199&mibextid=ZbWKwL' icon={BsFacebook}/>
+            <Footer.Icon href='https://www.instagram.com/mansi_agarwal.05?utm_source=qr&igsh=MW43aGc0cmc4bnZ2eA==' icon={BsInstagram}/>
             <Footer.Icon href='https://github.com/Mansi05403' icon={BsGithub}/>
+            <Footer.Icon href='#' icon={BsTwitter}/>
             <Footer.Icon href='#' icon={BsDribbble}/>
 
           </div>
